@@ -1,0 +1,11 @@
+1. Pros and Cons of Agile development list 2 each
+2. Roles and responsibilities of scrum master vs product owner 
+3. 3 types of meetings that happen during sprint cycle, list 2 points on what needs to be discussed during each meeting
+4. Difference between epic story bug task issue types in JIRA
+
+    Epic: Biggest of all four, kind of like the big requirements or modules of the project
+    Story: Smaller than epic but bigger than task, is a minor goal of the project
+    Task: Smallest of the four, is a step towards the goal in a story.
+    Bug: a bug in the code that needs to be fixed
+
+
