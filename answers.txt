@@ -8,6 +8,16 @@
         2. Less predictable
 
 2. Roles and responsibilities of scrum master vs product owner 
+
+    Scrum master:
+        1. JIRA tooling
+        2. Facilitates sprints and meetings
+
+    Product owner:
+        1. Sets direction for team 
+        2. handles release 
+        3. handles stakeholders
+
 3. 3 types of meetings that happen during sprint cycle, list 2 points on what needs to be discussed during each meeting
 4. Difference between epic story bug task issue types in JIRA
 
