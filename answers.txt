@@ -19,6 +19,17 @@
         3. handles stakeholders
 
 3. 3 types of meetings that happen during sprint cycle, list 2 points on what needs to be discussed during each meeting
+    
+    1. Sprint planning meeting
+        a. determine what to complete in sprint
+        b. determine story point and assign teams
+    2. Daily scrum meeting
+        a. Discuss work completed
+        b. Discuss workplan for day and blockers/bottlenecks
+    3. Sprint retrospect meeting
+        a. Discuss completed work
+        b. Move incomplete work to backlog
+
 4. Difference between epic story bug task issue types in JIRA
 
     Epic: Biggest of all four, kind of like the big requirements or modules of the project
